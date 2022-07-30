@@ -1,3 +1,4 @@
-This is a Remix backup file.
-This zip should be used by the restore backup tool in Remix.
-The .workspaces directory contains your workspaces.
+LRG proje html
+LRG smart
+LRG network
+LRG SMART  CONTRAT
